@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layout"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <!-- 
+    <my.exercise.cameraprocess.CameraProcessingView
+        android:id="@+id/cameraView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >                
+    </my.exercise.cameraprocess.CameraProcessingView>
+     -->
+
+</RelativeLayout>
+<!--
+          <SurfaceView
+        android:id="@+id/surfaceView1"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" />
+
+
+<view xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/surfaceCameraView"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    class="my.exercise.cameraprocess.CameraProcessingView" />
+-->
